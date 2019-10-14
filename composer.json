@@ -68,7 +68,7 @@
     "repositories":[
         {
             "type": "vcs",
-            "url" : "git@bitbucket.org:vofvapeshop/ext.laravel.vof.admin.git"
+            "url" : "git@bitbucket.org-vofs:vofvapeshop/ext.laravel.vof.admin.git"
         }
     ]
 }
