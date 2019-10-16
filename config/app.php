@@ -80,7 +80,7 @@ return [
     |
     */
 
-    'locale' => substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2),
+    'locale' => substr(php_sapi_name() == 'cli' ? 'en-EN' : $_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 2),
 
     /*
     |--------------------------------------------------------------------------
