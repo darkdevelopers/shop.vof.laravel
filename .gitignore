@@ -15,3 +15,6 @@ composer.lock
 /package
 /public
 /config
+/app/Http/Middleware
+/app/Exceptions
+/config/auth.php
