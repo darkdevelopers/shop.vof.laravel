@@ -3,3 +3,10 @@
 Documentation Technical and non Technical for Support and Developers
 
 ---
+
+## Technical
+[Install Project](/{{route}}/{{version}}/install-project)
+
+## None technical
+
+

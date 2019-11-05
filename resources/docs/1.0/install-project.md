@@ -58,8 +58,6 @@ $> ssh-keygen -t rsa -b 4096 -C "marco.schauer@darkdevelopers.de"
 * -b is the encryption strangth (requirement 4096)!
 * -C is an command
 
-![create-ssh-key](/images/install-project/create-ssh-key.png)
-
 Now you can set the Path to save the key files. 
 Enter the full path `/Users/mschauer/.ssh/dummy` to save your key file in the .ssh folder.
 
