@@ -13,6 +13,8 @@ Descripe the Admin Panel, what can you do.
 
 ## \#admin url
 
+You can call the admin login site with <a href="/admin/login">/admin/login</a>
+
 <a name="login">
 
 ## \#login
