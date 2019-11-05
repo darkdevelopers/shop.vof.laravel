@@ -3,3 +3,5 @@
     
 - ## Get Started
     - [Install Project](/{{route}}/{{version}}/install-project)
+    - [Admin Panel](/{{route}}/{{version}}/login-admin)
+
