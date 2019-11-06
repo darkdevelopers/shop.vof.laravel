@@ -18,7 +18,8 @@
         "laravelcollective/html": "^6.0",
         "predis/predis": "^1.1",
         "vof/ext.laravel.vof.admin": "1.0.4",
-        "vof/ext.laravel.vof.usermanagment": "1.0.1"
+        "vof/ext.laravel.vof.usermanagment": "1.0.1",
+        "vof/ext.laravel.vof.category": "dev-master"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.2",
@@ -78,6 +79,10 @@
         {
             "type": "vcs",
             "url" : "git@bitbucket.org-vof:vofvapeshop/ext.laravel.vof.usermanagment.git"
+        },
+        {
+            "type": "vcs",
+            "url" : "git@bitbucket.org-vof:vofvapeshop/ext.laravel.vof.category.git"
         }
     ]
 }
