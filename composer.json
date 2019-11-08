@@ -71,18 +71,8 @@
             "@php artisan key:generate --ansi"
         ]
     },
-    "repositories":[
-        {
-            "type": "vcs",
-            "url" : "git@bitbucket.org-vof:vofvapeshop/ext.laravel.vof.admin.git"
-        },
-        {
-            "type": "vcs",
-            "url" : "git@bitbucket.org-vof:vofvapeshop/ext.laravel.vof.usermanagment.git"
-        },
-        {
-            "type": "vcs",
-            "url" : "git@bitbucket.org-vof:vofvapeshop/ext.laravel.vof.category.git"
-        }
-    ]
+    "repositories": [{
+        "type": "composer",
+        "url": "https://packages.darkdevelopers.de"
+    }]
 }
