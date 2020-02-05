@@ -19,7 +19,8 @@
         "predis/predis": "^1.1",
         "vof/ext.laravel.vof.admin": "1.0.8",
         "vof/ext.laravel.vof.usermanagment": "1.0.1",
-        "vof/ext.laravel.vof.category": "dev-develop"
+        "vof/ext.laravel.vof.category": "dev-develop",
+        "vof/ext.laravel.vof.assets": "dev-develop"
     },
     "require-dev": {
         "barryvdh/laravel-debugbar": "^3.2",
